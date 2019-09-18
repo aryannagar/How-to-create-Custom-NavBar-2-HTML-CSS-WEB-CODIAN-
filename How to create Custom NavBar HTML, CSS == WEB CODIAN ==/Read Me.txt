@@ -1,0 +1,13 @@
+WEB CODIAN
+
+In this repository, you will be going to find the stuff related how you can create custom navbar 
+using HTML and CSS. Its a very simple and pleasing looking design that you can use at any type of your
+website or blog. This will help your website to upgrade your website onto next level.
+
+This code is free to use by anyone and anywhere.
+
+For video tutorial of this video: 
+
+For more interesting and cool looking stuff SUBSCRIBE our YouTube Channel
+
+WEB CODIAN: https://www.youtube.com/channel/UCvDfMTJRY5y-O35vQCVGWKw
